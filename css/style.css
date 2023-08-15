@@ -68,7 +68,8 @@
 
 /* skills section css */
 .skillsText.card {
-    height: 280px;
+    height: 260px;
+    align-items: center;
     cursor: pointer;
   }
 .skillsIcon {
